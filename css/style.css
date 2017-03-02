@@ -1,0 +1,11 @@
+body {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+p, h3, h4, h5 {
+  color:#555555;
+}
+
+p.personal, h4.personal, a.personal {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
