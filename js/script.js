@@ -38,7 +38,7 @@ function displayMessage(){
 
     if(i == inputs.length-2)
     {
-      document.body.innerHTML = 'Your message is successfully stored!';
+      document.getElementsByClassName("result")[0].innerHTML = 'Your message is successfully stored!';
     }
   }
 }
